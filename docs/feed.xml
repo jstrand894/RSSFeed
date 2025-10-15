@@ -25,5 +25,16 @@
       <itunes:duration>00:42:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+<item>
+      <title>Wang2023 - LiDAR and Insects</title>
+      <itunes:author>Jackson Strand</itunes:author>
+      <itunes:subtitle>Short ep subtitle</itunes:subtitle>
+      <itunes:summary>Episode summary / description.</itunes:summary>
+      <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode2.m4a" length="8052848" type="audio/x-m4a"/>
+      <guid isPermaLink="false">episode-2</guid>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:duration>00:42:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
