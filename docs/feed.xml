@@ -21,8 +21,8 @@
       <itunes:summary>Episode summary / description.</itunes:summary>
       <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode1.m4a" length="28783400" type="audio/x-m4a"/>
       <guid isPermaLink="false">episode-1</guid>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-      <itunes:duration>00:42:30</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 10:05 +0000</pubDate>
+      <itunes:duration>00:14.54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
 <item>
@@ -32,8 +32,8 @@
       <itunes:summary>Episode summary / description.</itunes:summary>
       <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode2.m4a" length="8052848" type="audio/x-m4a"/>
       <guid isPermaLink="false">episode-2</guid>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-      <itunes:duration>00:42:30</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 12:55 +0000</pubDate>
+      <itunes:duration>00:15:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
