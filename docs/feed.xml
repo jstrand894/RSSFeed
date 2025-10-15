@@ -10,25 +10,20 @@
     <itunes:summary>A longer description of the show.</itunes:summary>
     <description>A longer description of the show.</description>
 
-    <!-- Show artwork (>=1400 x 1400, max 3000 x 3000 recommended, JPG/PNG) -->
-    <itunes:image href="https://YOURUSERNAME.github.io/podcast-feed/artwork.jpg"/>
+    <itunes:image href="https://jstrand894.github.io/RSSFeed/artwork.jpg"/>
 
-    <!-- Category (one or more) -->
-    <itunes:category text="Society & Culture"/>
+    <itunes:category text="Science"/>
 
-    <!-- ONE episode example -->
     <item>
       <title>Episode 1 — Title</title>
-      <itunes:author>YOUR NAME</itunes:author>
+      <itunes:author>Jackson Strand</itunes:author>
       <itunes:subtitle>Short ep subtitle</itunes:subtitle>
       <itunes:summary>Episode summary / description.</itunes:summary>
-      <enclosure url="https://jstrand894.github.io/podcast-feed/episodes/episode1.m4a" length="12345678" type="audio/x-m4a"/>
+      <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode1.m4a" length="12345678" type="audio/x-m4a"/>
       <guid isPermaLink="false">episode-1-guid-or-url</guid>
       <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
       <itunes:duration>00:42:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-
-    <!-- Add more <item> blocks for each episode -->
   </channel>
 </rss>
