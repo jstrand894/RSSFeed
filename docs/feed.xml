@@ -19,8 +19,8 @@
       <itunes:author>Jackson Strand</itunes:author>
       <itunes:subtitle>Short ep subtitle</itunes:subtitle>
       <itunes:summary>Episode summary / description.</itunes:summary>
-      <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode1.m4a" length="12345678" type="audio/x-m4a"/>
-      <guid isPermaLink="false">episode-1-guid-or-url</guid>
+      <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode1.m4a" length="28783400" type="audio/x-m4a"/>
+      <guid isPermaLink="false">episode-1</guid>
       <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
       <itunes:duration>00:42:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
