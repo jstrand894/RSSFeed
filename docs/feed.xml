@@ -36,5 +36,27 @@
       <itunes:duration>00:15:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+<item>
+      <title>Jones2025 - Toadflax & Glyphosate/title>
+      <itunes:author>Jackson Strand</itunes:author>
+      <itunes:subtitle>Short ep subtitle</itunes:subtitle>
+      <itunes:summary>Episode summary / description.</itunes:summary>
+      <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode3.m4a" length="62185846" type="audio/x-m4a"/>
+      <guid isPermaLink="false">episode-3</guid>
+      <pubDate>Mon, 17 Nov 2025 21:36 +0000</pubDate>
+      <itunes:duration>00:32:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
+      <title>Jones2025 (2) - Toadflax & Glyphosate/title>
+      <itunes:author>Jackson Strand</itunes:author>
+      <itunes:subtitle>Short ep subtitle</itunes:subtitle>
+      <itunes:summary>Episode summary / description.</itunes:summary>
+      <enclosure url="https://jstrand894.github.io/RSSFeed/episodes/episode4.m4a" length="27089284 " type="audio/x-m4a"/>
+      <guid isPermaLink="false">episode-4</guid>
+      <pubDate>Mon, 17 Nov 2025 21:30 +0000</pubDate>
+      <itunes:duration>00:14:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
